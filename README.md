@@ -1,0 +1,2 @@
+# qarea
+corporative project
